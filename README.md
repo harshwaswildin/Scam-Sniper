@@ -130,11 +130,7 @@ Your `Dataset.csv` should have the following structure:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact 📧
 
-Your Name - harshwaschillin@example.com
-
-Project Link: [https://github.com/yourusername/realtime-phishing-detection](https://github.com/yourusername/realtime-phishing-detection)
 
 ---
 
