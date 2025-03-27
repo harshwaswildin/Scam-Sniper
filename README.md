@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📧
 
-Your Name - youremail@example.com
+Your Name - harshwaschillin@example.com
 
 Project Link: [https://github.com/yourusername/realtime-phishing-detection](https://github.com/yourusername/realtime-phishing-detection)
 
