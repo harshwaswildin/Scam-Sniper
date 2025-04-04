@@ -1,5 +1,5 @@
 # Scam-Sniper
-Snipe out voice based phishing attempts using AI (Glitchcon 2025) 
+Detect voice based phishing attempts using AI (Glitchcon 2025) 
 # Real-Time Phishing Detection Speech Recognition System 🎤🕵️
 
 ## Overview
